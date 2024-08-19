@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=9">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+  <script src="https://kit.fontawesome.com/f577bd7079.js" crossorigin="anonymous">   
+  </script>
+  <title>Tic Tac Toe</title>
+</head>
+<body>
+  <main>
+    <header>
+       <p>Tic Tac Toe</p>
+    </header>
+    <div class="grid_container">
+      <!-- menu & turn indicator-->
+      <div class="turn" data-id="turn">
+        <i class="fa-solid fa-x red"></i>
+        <p class="red" >Player 1, youre up!</p>
+      </div>
+      <!-- use data-id for a more stable way of JS interacting with html -->
+      <div class="menu" data-id="menu">
+        <button class="menu_btn" data-id="menu-btn">
+          Actions
+          <i class="fa-solid fa-chevron-down"></i>
+        </button>
+        <div class="items  hidden" data-id="menu-items">
+          <button class="reset-btn" data-id="reset-btn">Reset</button>
+          <button class="new-round-btn" data-id="new-round-btn">New Round</button>
+        </div>
+      </div>
+      <!-- game grid squares -->
+      <div id="1" class="square shadow" data-id="square"></div>
+      <div id="2" class="square shadow" data-id="square"></div>
+      <div id="3" class="square shadow" data-id="square"></div>
+      <div id="4" class="square shadow" data-id="square"></div>
+      <div id="5" class="square shadow" data-id="square"></div>
+      <div id="6" class="square shadow" data-id="square"></div>
+      <div id="7" class="square shadow" data-id="square"></div>
+      <div id="8" class="square shadow" data-id="square"></div>
+      <div id="9" class="square shadow" data-id="square"></div>
+      <!-- Score Board -->
+      <div class="score1 score shadow">
+        <p>Player 1</p>
+        <span data-id="p1-wins">0 Wins</span>
+      </div>
+      <div class="score2 score shadow">
+        <p>Ties</p>
+        <span data-id="ties">0</span>
+      </div>
+      <div class="score3 score shadow">
+        <p>Player 2</p>
+        <span data-id="p2-wins">0 Wins</span>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <P>
+      Frontend Game Using HTML, JavaScript & CSS
+    </P>
+  </footer>
+  <div class="modal hidden" data-id="modal">
+    <div class="modal-contents">
+      <p data-id="modal-text">Player 1 Wins!</p>
+      <button class="modal-btn" data-id="modal-btn">Play Again</button>
+    </div>
+  </div>
+  <script src="js/app.js" type="module"></script>
+  <!-- <script src="js/view.js"></script> -->
+</body>
+</html>
