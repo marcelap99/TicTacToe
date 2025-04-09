@@ -25,7 +25,7 @@
   ![Screenshot of the Tic Tac Toe Game Win!.](/TicTacToe_ScreenShot3_Play.jpg)
 
 # <u>Credits:</u>
-### This project is based on the on-line tutorial by Zach Gollwitzer, it requires a basic understanding of HTML, CSS, and JavaScript in order to build the UI. The Model-View-Controller (MVC) pattern is the focus of this project. Demostrating the importance of the separation of concerns. This is key in having well organize code that others can contribute to or help when debugging.
+### This project is based on the game tic tac toe, it requires a basic understanding of HTML, CSS, and JavaScript in order to build the UI. The Model-View-Controller (MVC) pattern is the focus of this project. Demostrating the importance of the separation of concerns. This is key in having well organize code that others can contribute to or help when debugging.
 
 
 
