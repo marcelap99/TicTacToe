@@ -1,6 +1,6 @@
 # Tic Tac Toe - Final Project CS50
 # <u>Demo Video: </u>
-[![YouTube Video](https://i9.ytimg.com/vi_webp/TijI6vwJW0U/mq1.webp?sqp=CITX-r8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDMgPyh_MA8=&rs=AOn4CLA8GYKRK8sPtxOBsnzLOZRrLlNFJQ)](https://youtu.be/TijI6vwJW0U)
+[![YouTube Video](http://img.youtube.com/vi/TijI6vwJW0U/0.jpg)](https://youtu.be/TijI6vwJW0U)
 <video src="/Tic_Tac_Toe_Project_Presentation.mp4" type="video/mp4" width:"350" height="350" controls></video>
 <audio controls src="/Tic_Tac_Toe_Project_Presentation1_audio.m4a"></audio>
 
