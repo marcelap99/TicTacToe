@@ -1,5 +1,6 @@
 # Tic Tac Toe - Final Project CS50
 # <u>Demo Video: </u>
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 <video controls src="Tic_Tac_Toe_Project_Presentation.mp4" type="video/mp4" style="max-width: 500px;">
 </video>
 <audio controls src="Tic_Tac_Toe_Project_Presentation1_audio.m4a"></audio>
