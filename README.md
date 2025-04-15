@@ -1,8 +1,8 @@
 # Tic Tac Toe - Final Project CS50
 # <u>Demo Video: </u>
 [![YouTube Video]](https://youtu.be/TijI6vwJW0U)
-<video src="Tic_Tac_Toe_Project_Presentation.mp4" type="video/mp4" width:"350" height="350" controls></video>
-<audio controls src="Tic_Tac_Toe_Project_Presentation1_audio.m4a"></audio>
+<video src="/Tic_Tac_Toe_Project_Presentation.mp4" type="video/mp4" width:"350" height="350" controls></video>
+<audio controls src="/Tic_Tac_Toe_Project_Presentation1_audio.m4a"></audio>
 
 # <u>Description: </u>
 ### Tic tac Toe is a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares.
