@@ -38,6 +38,8 @@ It helps organize the project by providing a central location for essential info
 # <u>Instructions:</u>
 ### Down load, or clone, open in editor, launch a server like "live server" from editor. Play the game.
  ![Screenshot of the Tic Tac Toe Game Win!.](/TicTacToe_ScreenShot3_Play.jpg)
+### How to play: Rules for Tic-Tac-Toe
+The game is played on a grid that's 3 squares by 3 squares. You are X , your friend is O . Players take turns putting their marks in empty squares. The first player to get 3 of thier marks in a row (up, down, across, or diagonally) is the winner.
 
 # <u>Credits:</u>
 ### This project is based on the game tic tac toe, it requires a basic understanding of HTML, CSS, and JavaScript in order to build the UI. The Model-View-Controller (MVC) pattern is the focus of this project. Demonstrating the importance of the separation of concerns. This is key in having well organized code that others can contribute to or help when debugging.
